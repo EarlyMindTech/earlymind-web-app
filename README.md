@@ -1,1 +1,1 @@
-# earlymind-web-app
+At EarlyMind, we envision a world where every child’s unique mind is understood and nurtured from the very beginning. By empowering schools with intelligent tools for the early detection of neurodivergent traits, we aim to break the barriers of late diagnosis, eliminate stigma, and unlock the full potential of every learner—ensuring no child is left unseen, unheard, or unsupported.
